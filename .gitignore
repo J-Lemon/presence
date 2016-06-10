@@ -6,3 +6,10 @@ db.*
 .pydevproject
 .project
 local_settings.py
+relay.py
+Python-3.4.0/
+Python-3.4.0.tgz
+build/
+env2.7/
+
+
